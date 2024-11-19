@@ -31,7 +31,7 @@ The Video app is your go-to platform for discovering the latest films, leaving r
     - Feasible if focusing on streamlined movie listings and user reviews. Scaling up to include more features (e.g., personalized recommendations) might complicate the scope.
 
 
-###Product Spec###
+### Product Spec
 
 **User Features (Required and Optional)**
 **Required Features**
@@ -69,9 +69,9 @@ The Video app is your go-to platform for discovering the latest films, leaving r
 - Home → Movie Details:
   - Tap on a movie to go to its details page.
 - Movie Details → Review Submission:
--     Use the "Write a Review" button to navigate to the review page.
+  - Use the "Write a Review" button to navigate to the review page.
 - Movie Details → Back to Home:
--     Return to the main screen using the back button or a "Go Back" option.
+  - Return to the main screen using the back button or a "Go Back" option.
 - Profile → Log In (opional):
   - Direct users to a login or sign-up page when trying to access saved settings (optional).
 
