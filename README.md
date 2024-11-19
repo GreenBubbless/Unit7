@@ -31,34 +31,35 @@ The Video app is your go-to platform for discovering the latest films, leaving r
     - Feasible if focusing on streamlined movie listings and user reviews. Scaling up to include more features (e.g., personalized recommendations) might complicate the scope.
 
 
-Product Spec
+###Product Spec
 
-User Features (Required and Optional)
-Required Features
--Browse a list of current movies, showing details like titles, ratings, and release dates.
--View detailed information about each movie, including its synopsis and trailers.
--Post reviews or comments on individual movies.
--Read reviews from other users and see aggregated ratings.
--Fetch and display data dynamically using a real-time API.
-Optional Features
--Account creation for saving favorite movies or personalized settings.
--Suggestions for movies based on user activity.
--Push notifications for updates like new movie releases.
+**User Features (Required and Optional)**
+**Required Features**
+- Browse a list of current movies, showing details like titles, ratings, and release dates.
+- View detailed information about each movie, including its synopsis and trailers.
+- Post reviews or comments on individual movies.
+- Read reviews from other users and see aggregated ratings.
+- Fetch and display data dynamically using a real-time API.
+
+**Optional Features**
+- Account creation for saving favorite movies or personalized settings.
+- Suggestions for movies based on user activity.
+- Push notifications for updates like new movie releases.
 
 
-Screen Archetypes
-• Home Screen:
+**Screen Archetypes**
+•**Home Screen**:
     o Displays a list of currently showing movies in theaters.
-• Movie Details Screen:
+• **Movie Details Screen**:
     o Shows detailed information about the selected movie, including a description, cast, trailers, and user reviews.
-• Review Submission Screen:
+• **Review Submission Screen**:
     o Lets users type and submit their reviews or comments about a specific movie.
-• Profile Screen(optional):
+• **Profile Screen(optional)**:
     o Displays user information, including saved movies and account details.
-• Notifications Screen (Optional):
+• **Notifications Screen (Optional)**:
     o Lists updates on new releases or other app-related alerts.
 
-Navigation
+**Navigation**
 Tab Navigation :
 • Movies: Leads to the Home Screen for browsing available films.
 • Profile: Opens the Profile Screen for managing account details (optional).
