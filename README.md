@@ -75,7 +75,7 @@ o Direct users to a login or sign-up page when trying to access saved settings (
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src=
+<img src=https://github.com/GreenBubbless/Unit7/blob/main/IMG_5742.JPG
  width=600>
 
 <br>
