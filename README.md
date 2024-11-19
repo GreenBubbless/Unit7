@@ -47,17 +47,17 @@ The Video app is your go-to platform for discovering the latest films, leaving r
 - Push notifications for updates like new movie releases.
 
 
-**Screen Archetypes**
-•**Home Screen**:
-    o Displays a list of currently showing movies in theaters.
-• **Movie Details Screen**:
-    o Shows detailed information about the selected movie, including a description, cast, trailers, and user reviews.
-• **Review Submission Screen**:
-    o Lets users type and submit their reviews or comments about a specific movie.
-• **Profile Screen(optional)**:
-    o Displays user information, including saved movies and account details.
-• **Notifications Screen (Optional)**:
-    o Lists updates on new releases or other app-related alerts.
+### Screen Archetypes
+- **Home Screen**:
+  - Displays a list of currently showing movies in theaters.
+- **Movie Details Screen**:
+  - Shows detailed information about the selected movie, including a description, cast, trailers, and user reviews.
+- **Review Submission Screen**:
+  - Lets users type and submit their reviews or comments about a specific movie.
+- **Profile Screen(optional)**:
+  - Displays user information, including saved movies and account details.
+- **Notifications Screen (Optional)**:
+  - Lists updates on new releases or other app-related alerts.
 
 **Navigation**
 **Tab Navigation** :
